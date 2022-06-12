@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/f1_data_vis.iml" filepath="$PROJECT_DIR$/.idea/f1_data_vis.iml" />
+      <module fileurl="file://$USER_HOME$/dev/f1_ergast_csv_data/.idea/f1_ergast_csv_data.iml" filepath="$USER_HOME$/dev/f1_ergast_csv_data/.idea/f1_ergast_csv_data.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ruby_ergast_api_client/.idea/ruby_ergast_api_client.iml" filepath="$PROJECT_DIR$/../ruby_ergast_api_client/.idea/ruby_ergast_api_client.iml" />
     </modules>
   </component>
